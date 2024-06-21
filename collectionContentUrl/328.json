@@ -1,0 +1,31 @@
+{
+  "name": "SUGAR #329",
+  "description": "Official NFT collection of the SUGAR ecosystem",
+  "image": "ipfs://bafybeiaav6i23qogvsmx4qjhfzhtepxvzlvsqxcl56si7mp3aukrkwwlhq/329.png",
+  "dna": "75e4e77e50d51b0c9ff81398cfc3c48764329546",
+  "edition": 329,
+  "date": 1718822678355,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "office"
+    },
+    {
+      "trait_type": "Body",
+      "value": "ton coin"
+    },
+    {
+      "trait_type": "Inscription",
+      "value": "capital"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "hashtech"
+    },
+    {
+      "trait_type": "Item",
+      "value": "mechanical wings"
+    }
+  ],
+  "compiler": "Skareon Agency"
+}
